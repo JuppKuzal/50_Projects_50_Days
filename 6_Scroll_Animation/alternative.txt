@@ -1,0 +1,4 @@
+https://michalsnik.github.io/aos/
+
+This easy javascript solution is much more lightweight, so when 
+only wanting this one functionality, consider using..
